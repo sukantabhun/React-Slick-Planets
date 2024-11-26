@@ -1,0 +1,19 @@
+.item-image {
+  width: 540px;
+  height: 340px;
+}
+.item-container {
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+.item-description {
+  font-size: 28px;
+  text-align: center;
+}
+.item-heading {
+  font-size: 45px;
+  font-weight: bolder;
+}
